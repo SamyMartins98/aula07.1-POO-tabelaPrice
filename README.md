@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://www.java.com/pt-BR/">☕ Java com Servlets</a>
+    <a href="https://www.java.com/pt-BR/">☕ Java/JSP</a>
 </h1>
 <p align="center">Atividade de Programação Orientada a Objetos</p>
 
