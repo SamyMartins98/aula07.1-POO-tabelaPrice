@@ -1,0 +1,18 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<header>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" style="color:#fff" href="index.jsp">Início</a>
+                    </li>
+                    <li class="nav-item" >
+                        <a class="nav-link" style="color:#fff" href="tabelaprice.jsp">Tabela Price</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
